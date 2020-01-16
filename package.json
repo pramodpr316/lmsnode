@@ -18,7 +18,7 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.2",
-    "bootstrap": "^4.0.0",
+    "bootstrap": "^4.3.1",
     "cors": "^2.8.4",
     "ejs": "^2.5.8",
     "express": "^4.16.3",
